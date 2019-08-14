@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "471831845456",
+    "firebase_url": "https://latihan-firebase-49d8b.firebaseio.com",
+    "project_id": "latihan-firebase-49d8b",
+    "storage_bucket": "latihan-firebase-49d8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471831845456:android:1c555c4c72f274ea",
+        "android_client_info": {
+          "package_name": "rifdahneta.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471831845456-q4bom92rjrrojkne6eqj40ah15bqln2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rifdahneta.firebaseapp",
+            "certificate_hash": "3986d7b8ae9ed1f0e56ff09beb71b9874e7efbbf"
+          }
+        },
+        {
+          "client_id": "471831845456-dl1o6805a4psl67k3c2mdu456flg3098.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNeOzL-aopQnSOkxmcrIHDLqK2JgUtxEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471831845456-dl1o6805a4psl67k3c2mdu456flg3098.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
